@@ -4,7 +4,7 @@
 *Шаблон ML System Design Doc от телеграм-канала [Reliable ML](https://t.me/reliable_ml)*   
 
 - Рекомендации по процессу заполнения документа (workflow) - [здесь](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru/blob/main/ML_System_Design_Doc_Workflow.md).  
-- Детальный доклад о том, что такое ML System Design Doc и о том, как, когда и зачем его составлять - **будет туть**.
+- Детальный доклад о том, что такое ML System Design Doc и о том, как, когда и зачем его составлять - [тут](https://www.youtube.com/watch?v=PW9TGNr1Vqk).
     
 > ## Термины и пояснения
 > - Итерация - это все работы, которые совершаются до старта очередного пилота  
