@@ -1,5 +1,5 @@
 # ML System Design Doc - [Reliable ML](https://t.me/reliable_ml)
-*Шаблон документа для дизайна ML-систем от телеграм-канала [Reliable ML](https://t.me/reliable_ml)*   
+*[Шаблон документа для дизайна ML-систем](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru/blob/main/ML_System_Design_Doc_Template.md) от телеграм-канала [Reliable ML](https://t.me/reliable_ml)*   
 
 ## Что такое ML System Design Doc
 ...
@@ -7,7 +7,9 @@
 ## Зачем нужен ML System Design Doc
 ...
 
-## Как составить ML System Design Doc 
+## Как составить ML System Design Doc
+
+- Скачать [шаблон документа от Reliable ML](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru/blob/main/ML_System_Design_Doc_Template.md) и загрузить его в общее рабочее пространство вашей компании или сделать форк репозитория и работать в нем
 - Рекомендации по процессу заполнения документа (workflow) - [здесь](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru/blob/main/ML_System_Design_Doc_Workflow.md).  
 - Детальный доклад о том, что такое ML System Design Doc и о том, как, когда и зачем его составлять - [тут](https://www.youtube.com/watch?v=PW9TGNr1Vqk).
  
