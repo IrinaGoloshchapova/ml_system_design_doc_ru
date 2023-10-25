@@ -9,6 +9,8 @@ ML System Design документ - это по сути сводный план
 
 А для того, чтобы этот план было проще построить, и чтобы итоговая система, действительно, приводила к результату, мы в сообществе [Reliable ML](https://t.me/reliable_ml) разработали [шаблон такого документа](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru/blob/main/ML_System_Design_Doc_Template.md).  
 
+Шаблон был успешно адаптирован уже в более 10 крупных компаниях на российском рынке, а также внедрен Университетом ИТМО в программу [онлайн-магистратуры по ML-инженерии](https://ai.itmo.ru/) как ключевой инструмент планирования ML-проектов.  
+
 ![image](https://user-images.githubusercontent.com/12476970/227248587-11e2f92f-51ad-4edb-9eab-1dc4b8f8e902.png)
 
 ## Зачем нужен ML System Design Doc
