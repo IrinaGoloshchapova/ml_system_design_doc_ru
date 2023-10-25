@@ -26,7 +26,8 @@ ML System Design документ - это по сути сводный план
 
 - Скачать [шаблон документа от Reliable ML](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru/blob/main/ML_System_Design_Doc_Template.md) и загрузить его в общее рабочее пространство вашей компании или сделать форк репозитория и работать в нем
 - Прочитать краткие рекомендации по процессу заполнения документа (workflow) - [здесь](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru/blob/main/ML_System_Design_Doc_Workflow.md).  
-- Посмотреть детальный доклад о том, что такое ML System Design Doc и о том, как, когда и зачем его составлять - [тут](https://www.youtube.com/watch?v=PW9TGNr1Vqk).  
+- Посмотреть детальный доклад о том, что такое ML System Design Doc и о том, как, когда и зачем его составлять - [тут](https://www.youtube.com/watch?v=PW9TGNr1Vqk).
+- Если остались вопросы - заглянуть в [раздел допматериалов](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru/edit/main/README.md#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%BF%D0%BE-ml-system-design-%D0%BE%D1%82-reliable-ml).
 - Приступить к работе!  
  
 ## Примеры дизайн-документов по шаблону Reliable ML
@@ -43,6 +44,17 @@ ML System Design документ - это по сути сводный план
 - Пишите [@irina_goloshchapova](https://t.me/irina_goloshchapova) и [@promsoft](https://t.me/promsoft)  
   
 ## Материалы для дополнительного погружения в тему  
+
+### Материалы по ML System Design от Reliable ML  
+
+- О поиске идей для ML-проектов и о дизайн-документе простыми словами ([лекция](https://www.youtube.com/watch?v=HmdKhI2_6Os), [слайды](https://drive.google.com/drive/folders/1sfPg8M4MAjPL4xsOlcBb7t8L-FI1nrqW))
+- Детально о работе с дизайн-доком ([лекция](https://www.youtube.com/watch?v=PW9TGNr1Vqk), [слайды](https://storage.yandexcloud.net/ds-ods/files/content/2023/01/05/8dc6bb3292e0/Reliable_ML%20-%20ML%20System%20Design%20Doc.pdf))
+- Про интеграцию ML-моделей в бизнес-процессы ([лекция](https://www.youtube.com/watch?v=4K53wAeXPg0), [слайды](https://storage.yandexcloud.net/ds-ods/files/content/2023/01/05/b2b37c76a787/Reliable_ML_%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%B2_%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D1%8B.pdf))
+- Курс [ML System Design 2023](https://ods.ai/tracks/ml-system-design-23) и [ML System Design 2022](https://www.youtube.com/playlist?list=PLTlO6nV_TaGDu_HYG8cm7iUFZ_4qEJAYF)
+- [Критерии оценки дизайн-документов](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru/blob/main/checklist.md) от ИТМО & Reliable ML
+
+### Международная практика по ML System Design Docs  
+
 - [Шаблон ML System Design Doc [EN] от AWS](https://github.com/eugeneyan/ml-design-docs) и [статья](https://eugeneyan.com/writing/ml-design-docs/) с объяснением каждого раздела  
 - [Верхнеуровневый шаблон ML System Design Doc от Google](https://towardsdatascience.com/the-undeniable-importance-of-design-docs-to-data-scientists-421132561f3c) и [описание общих принципов его заполнения](https://towardsdatascience.com/understanding-design-docs-principles-for-achieving-data-scientists-53e6d5ad6f7e).
 - [ML Design Template](https://www.mle-interviews.com/ml-design-template) от ML Engineering Interviews  
