@@ -1,4 +1,4 @@
-![image](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru/assets/12476970/2c7b0183-5038-4650-bf5b-d1a74890110a)# ML System Design Doc - Reliable ML
+# ML System Design Doc - Reliable ML
 *[Шаблон документа для дизайна ML-систем](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru/blob/main/ML_System_Design_Doc_Template.md) от телеграм-канала [Reliable ML](https://t.me/reliable_ml)*   
 
 
