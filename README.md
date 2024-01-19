@@ -29,7 +29,7 @@ ML System Design документ - это по сути сводный план
 - Скачать [шаблон документа от Reliable ML](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru/blob/main/ML_System_Design_Doc_Template.md) и загрузить его в общее рабочее пространство вашей компании или сделать форк репозитория и работать в нем
 - Прочитать краткие рекомендации по процессу заполнения документа (workflow) - [здесь](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru/blob/main/ML_System_Design_Doc_Workflow.md).  
 - Посмотреть детальный доклад о том, что такое ML System Design Doc и о том, как, когда и зачем его составлять - [тут](https://www.youtube.com/watch?v=PW9TGNr1Vqk).
-- Если остались вопросы - заглянуть в [раздел допматериалов](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru/edit/main/README.md#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%BF%D0%BE-ml-system-design-%D0%BE%D1%82-reliable-ml).
+- Если остались вопросы - заглянуть в [раздел допматериалов](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-%D1%82%D0%B5%D0%BC%D1%83).
 - Приступить к работе!  
  
 ## Примеры дизайн-документов по шаблону Reliable ML
