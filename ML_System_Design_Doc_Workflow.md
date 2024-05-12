@@ -11,6 +11,38 @@
 - **Финализация**. Если по итогам встречи с бизнесом, все ключевые моменты согласованы, то версию документа считаем финальной.   
 - **RoadMap**. Составляем дорожную карту работы над итерацией по итогам финальной версии документа. Реалистичная и структурная дорожная карты работы над ML-решением - это один из ключевых результатов работы над ML System Design Doc. 
 
-![Схема workflow](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru/blob/main/Workflow_ML_System_Design_Doc.jpg?raw=true)
 
+```mermaid
+---
+title: Схема workflow
+---
+%%{ 
+init: { 
+'flowchart': { 'curve': 'stepAfter' },
+'theme': 'neutral'
+}
+}%%
+flowchart TD
+    classDef Green fill:#99FF99
+    classDef Condition fill:#3399FF
+    
+    start("<b>Старт работы</b>\nРаздел для дока в базе знаний")
+    intro("<b>Вводные</b>\nОтв.: Product Owner")
+    techno("<b>Техника</b>\nОтв.: Data Scientist")
+    review("<b>Ревью</b>\nОтв.: Product Owner &\nData Scientist")
+    edits{"Есть правки\nк документу?"}
+    meeting("<b>Встреча с бизнесом</b>\nОтв.: Product Owner")
+    clarifications{"Нужны уточнения\nк дизайн-доку?"}
+    final("<b>Финализация</b>\nОтв.: Product Owner")
+    roadmap("<b>RoadMap</b>\nОтв.: Product Owner")
+
+    start-->intro-->techno-->review-->edits--->|"Да"|intro
+    edits--->|"Нет"|meeting-->clarifications--->|"Да"|intro
+    clarifications--->|"Нет"|final-->roadmap
+
+    class start,final,roadmap Green;
+    class edits,clarifications Condition;
+    
+
+```
 
