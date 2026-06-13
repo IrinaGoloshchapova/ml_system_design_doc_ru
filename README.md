@@ -1,6 +1,7 @@
 # ML System Design Doc - Reliable ML
 *[Шаблон документа для дизайна ML-систем](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru/blob/main/ML_System_Design_Doc_Template.md) от телеграм-канала [Reliable ML](https://t.me/reliable_ml)*   
-*В работе AI System Design Doc - шаблон для дизайна AI-систем. Если хотите поучаствовать в проекте - пишите [@irina_goloshchapova](https://t.me/irina_goloshchapova)
+
+*В работе **AI System Design Doc*** - шаблон для дизайна AI-систем. Если хотите поучаствовать в проекте - пишите [@irina_goloshchapova](https://t.me/irina_goloshchapova)
 
 
 ## Что такое ML System Design Doc
